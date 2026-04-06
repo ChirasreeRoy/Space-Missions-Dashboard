@@ -117,6 +117,9 @@ The goal was to transform this raw dataset into actionable insights that answer 
 ### 🏆Conclusion :
 This project analyzes global space missions from 1957–2022 to uncover trends in launch frequency, mission success, country dominance, and launch locations. Using SQL and Power BI, it transforms raw data into actionable insights, highlighting the evolution of the space industry and the growing role of modern space programs.
 
+## 📷 Screenshots :
+https://github.com/ChirasreeRoy/Space-Missions-Dashboard/blob/main/1st%20Snapshot.png
 
+https://github.com/ChirasreeRoy/Space-Missions-Dashboard/blob/main/2nd%20Snapshot.png
 
 
